@@ -7,6 +7,7 @@ and can handle basic queries like greetings, time, day, and other small talk.It 
 and Python's standard libraries to create interactive programs.
 
 Features:
+
 1.Responds to user input based on predefined rules
 
 2.Handles greetings and common conversational phrases.
